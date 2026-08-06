@@ -14,3 +14,4 @@ var findKthPositive = function(arr, k) {
     }
     return num - 1;
 };
+console.log("but to be honest i used here ai alot to make this and to know the meaning of the challange")
